@@ -1,0 +1,27 @@
+{
+  "name": "wicked-react",
+  "version": "0.0.1",
+  "description": "wicked react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hattmarris/wicked-react.git"
+  },
+  "keywords": [
+    "react",
+    "wicked",
+    "tongues"
+  ],
+  "author": "Matt Harris",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/hattmarris/wicked-react/issues"
+  },
+  "homepage": "https://github.com/hattmarris/wicked-react#readme",
+  "dependencies": {
+    "react": "^15.5.4"
+  }
+}
